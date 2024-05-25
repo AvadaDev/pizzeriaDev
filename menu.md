@@ -40,6 +40,12 @@
 6. Sos arabski - 4 zł
 7. Ketchup - 4 zł
 
+## Dodatki
+
+1. Kukurydza - 3 zł
+2. Zielony groszek - 4 zł
+3. Czerwona fasolka - 5 zł
+
 ## Napoje
 
 <img src = "img/nathan-dumlao-vRDsrwOl_G4-unsplash.jpg" width = 200>
