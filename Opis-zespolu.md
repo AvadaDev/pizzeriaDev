@@ -4,6 +4,7 @@
 Marek Markowiak
 
 ## Kucharz
+Adam Adamczyk
 
 ## Obsługa
 
