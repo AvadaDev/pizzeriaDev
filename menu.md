@@ -21,12 +21,12 @@
 
 <img src = "img/anh-nguyen-kcA-c3f_3FE-unsplash.jpg" width = 300>
 
-|Lp.|Sałatka                                                                                      |cena     |gramatura|
+|Lp.|Sałatka                                                                                      |gramatura|cena     |
 |---|---------------------------------------------------------------------------------------------|---------|---------|
-|1. |GRECKA (mix sałat, pomidor, ogórek, cebula, ser feta, oliwki, rucola, sos vinegrette)        | 25 zł   |  450 g  |
-|2. |CEZAR (mix sałat, kebab, bekon, pomidor, ogórek, cebula, cebulka prażona, sos serowy-chilli) | 25 zł   |  450 g  |
-|3. |KEBAB (mix sałat, kebab, pomidor, ogórek, cebula, sos czosnkowy)                             | 25 zł   |  450 g  |
-|4. |SPINACCI (mix sałat, świeży szpinak, suszone pomidory, ser feta, cebula, oliwa z oliwek)     | 25 zł   |  450 g  |
+|1. |GRECKA (mix sałat, pomidor, ogórek, cebula, ser feta, oliwki, rucola, sos vinegrette)        | 450 g   |  25 zł  |
+|2. |CEZAR (mix sałat, kebab, bekon, pomidor, ogórek, cebula, cebulka prażona, sos serowy-chilli) | 450 g   |  25 zł  |
+|3. |KEBAB (mix sałat, kebab, pomidor, ogórek, cebula, sos czosnkowy)                             | 450 g   |  25 zł  |
+|4. |SPINACCI (mix sałat, świeży szpinak, suszone pomidory, ser feta, cebula, oliwa z oliwek)     | 450 g   |  25 zł  |
 
 ## Sosy
 
@@ -44,12 +44,14 @@
 
 <img src = "img/nathan-dumlao-vRDsrwOl_G4-unsplash.jpg" width = 200>
 
-1. Woda 0.5L - 5 zł
-2. Pepsi 0.5L - 8 zł
-3. Sprite 0.5L - 8zł
-4. Fanta 0.5L - 8 zł
-5. Lipton 0.5L - 8 zł
-6. Cola Zero 0.5L - 8 zł
+|Lp.|Napój      |gramatura |cena  |
+|---|-----------|----------|------|
+|1. | Woda      |0.5L      | 5 zł |
+|2. | Pepsi     |0.5L      | 8 zł |
+|3. | Sprite    |0.5L      | 8 zł |
+|4. | Fanta     |0.5L      | 8 zł |
+|5. | Lipton    |0.5L      | 8 zł |
+|6. | Cola Zero |0.5L      | 8 zł |
 
 ## Napoje alkoholowe
 
