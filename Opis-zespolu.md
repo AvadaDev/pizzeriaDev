@@ -14,3 +14,4 @@
 - Mateusz Maciak
 
 ## Grafik
+- Karol Wojtyła
