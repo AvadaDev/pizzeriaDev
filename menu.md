@@ -27,3 +27,16 @@
 |2. |CEZAR (mix sałat, kebab, bekon, pomidor, ogórek, cebula, cebulka prażona, sos serowy-chilli) | 25 zł   |  450 g  |
 |3. |KEBAB (mix sałat, kebab, pomidor, ogórek, cebula, sos czosnkowy)                             | 25 zł   |  450 g  |
 |4. |SPINACCI (mix sałat, świeży szpinak, suszone pomidory, ser feta, cebula, oliwa z oliwek)     | 25 zł   |  450 g  |
+
+## Sosy
+
+<img src = "img/victoria-shes-XhJsHDEn5Xo-unsplash.jpg" width = 300>
+
+1. Sos pomidorowy - 4 zł
+2. Sos czosnkowy - 4 zł
+3. Sos 1000 wysp - 4 zł
+4. Sos bbq - 4 zł
+5. Sos duński - 4 zł
+6. Sos arabski - 4 zł
+7. Ketchup - 4 zł
+
