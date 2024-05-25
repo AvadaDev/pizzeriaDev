@@ -52,3 +52,12 @@
 |4. | Fanta     |0.5L      | 8 zł |
 |5. | Lipton    |0.5L      | 8 zł |
 |6. | Cola Zero |0.5L      | 8 zł |
+
+## Napoje alkoholowe
+
+<img src = "img/tinywow_victoria-priessnitz-1Tm2TTy0U1M-unsplash_56745659.jpg" width = 300>
+
+|Lp. |Napój alkoholowy |gramatura |cena  |
+|----|-----------------|----------|------|
+|1.  |Piwo jasne       |0.5L      |11 zł |
+|2.  |Piwo ciemne      |0.5L      |13 zł |
