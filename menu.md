@@ -44,9 +44,11 @@
 
 <img src = "img/nathan-dumlao-vRDsrwOl_G4-unsplash.jpg" width = 200>
 
-1. Woda 0.5L - 5 zł
-2. Pepsi 0.5L - 8 zł
-3. Sprite 0.5L - 8zł
-4. Fanta 0.5L - 8 zł
-5. Lipton 0.5L - 8 zł
-6. Cola Zero 0.5L - 8 zł
+|Lp.|Napój      |gramatura |cena  |
+|---|-----------|----------|------|
+|1. | Woda      |0.5L      | 5 zł |
+|2. | Pepsi     |0.5L      | 8 zł |
+|3. | Sprite    |0.5L      | 8 zł |
+|4. | Fanta     |0.5L      | 8 zł |
+|5. | Lipton    |0.5L      | 8 zł |
+|6. | Cola Zero |0.5L      | 8 zł |
