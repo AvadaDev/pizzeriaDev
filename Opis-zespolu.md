@@ -1,3 +1,7 @@
 # Opies zespołu
 
-treść
+## Kierownik
+
+## Dostawca
+
+## Grafik
