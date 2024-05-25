@@ -42,6 +42,8 @@
 
 ## Dodatki
 
+<img src = "img/image.png" width = 300>
+
 1. Kukurydza - 3 zł
 2. Zielony groszek - 4 zł
 3. Czerwona fasolka - 5 zł
