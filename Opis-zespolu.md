@@ -7,6 +7,8 @@ Marek Markowiak
 Adam Adamczyk
 
 ## Obsługa
+Sebastian Trela
+Jakub Rzeźwicki
 
 ## Dostawca
 
