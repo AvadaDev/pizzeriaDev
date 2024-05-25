@@ -1,15 +1,16 @@
 # Opies zespołu
 
 ## Kierownik
-Marek Markowiak
+- Marek Markowiak
 
 ## Kucharz
-Adam Adamczyk
+- Adam Adamczyk
 
 ## Obsługa
-Sebastian Trela
-Jakub Rzeźwicki
+- Sebastian Trela
+- Jakub Rzeźwicki
 
 ## Dostawca
+- Mateusz Maciak
 
 ## Grafik
