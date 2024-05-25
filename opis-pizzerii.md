@@ -6,3 +6,6 @@ Witamy w pizzerii "PizzeriaDev", miejscu, gdzie tradycja włoskiej kuchni spotyk
 
 Organizujemy również imprezy okolicznościowe, takie jak urodziny, rocznice czy spotkania firmowe. Na specjalne życzenie, możemy przygotować spersonalizowane menu dla większych grup.
 
+### Rezerwacje
+
+Dla Państwa wygody oferujemy możliwość rezerwacji stolików online oraz telefonicznie.
