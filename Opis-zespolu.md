@@ -1,3 +1,11 @@
 # Opies zespołu
 
-treść
+## Kierownik
+
+## Kucharz
+
+## Obsługa
+
+## Dostawca
+
+## Grafik
