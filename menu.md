@@ -16,3 +16,14 @@
 |8. |BOLONIA (sos pomidorowy, ser, szynka, pieczatki, papryka)                        |        |40 zł |60 zł |70 zł |
 |9. |RZEŹNIK (sos pomidorowy, ser, bekon, cebula, kabanos, salami, szynka, papryka)   |        |42 zł |62 zł |72 zł |
 |10.|SPINACCI (sos śmietanowy, ser, brokuły, kebab, szpinak)                          |        |42 zł |62 zł |72 zł |
+
+## Sałatki
+
+<img src = "img/anh-nguyen-kcA-c3f_3FE-unsplash.jpg" width = 300>
+
+|Lp.|Sałatka                                                                                      |cena     |gramatura|
+|---|---------------------------------------------------------------------------------------------|---------|---------|
+|1. |GRECKA (mix sałat, pomidor, ogórek, cebula, ser feta, oliwki, rucola, sos vinegrette)        | 25 zł   |  450 g  |
+|2. |CEZAR (mix sałat, kebab, bekon, pomidor, ogórek, cebula, cebulka prażona, sos serowy-chilli) | 25 zł   |  450 g  |
+|3. |KEBAB (mix sałat, kebab, pomidor, ogórek, cebula, sos czosnkowy)                             | 25 zł   |  450 g  |
+|4. |SPINACCI (mix sałat, świeży szpinak, suszone pomidory, ser feta, cebula, oliwa z oliwek)     | 25 zł   |  450 g  |
