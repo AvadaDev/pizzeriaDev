@@ -94,3 +94,12 @@
 - 150g pieczarek
 
 ### SPINACCI
+
+**Składniki:**
+- 250g ciasta do pizzy
+- 200g sosu śmietanowego
+- 200g sera mozzarella
+- 150g szpinaku
+- 50g brokułów
+- 50g mięsa kebab
+
