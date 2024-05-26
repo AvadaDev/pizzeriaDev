@@ -1,3 +1,11 @@
-# Przepisy
+# Przepisy na pizze
 
-treść
+### KLASYCZNA
+
+### PEPPERONI
+
+### CAPRICCIOZA
+
+### VEGGIE
+
+### BOLOGNE
