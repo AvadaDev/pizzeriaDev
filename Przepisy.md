@@ -33,6 +33,16 @@
 
 ### VEGGIE
 
+**Składniki:**
+- 250g ciasta do pizzy
+- 200g sosu pomidorowego
+- 200g sera mozzarella
+- 50g czerwonej papryki
+- 100g mix sałat
+- 50g cebuli
+- Oregano
+- Oliwa z oliwek
+
 ### BOLOGNE
 
 ### BUFALA
