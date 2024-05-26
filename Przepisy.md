@@ -2,6 +2,7 @@
 
 ### KLASYCZNA
 
+**Składniki:**
 - 250g ciasta do pizzy
 - 200g sosu pomidorowego
 - 200g sera mozzarella
@@ -10,6 +11,14 @@
 - Oliwa z oliwek
 
 ### PEPPERONI
+
+**Składniki:**
+- 250g ciasta do pizzy
+- 200g sosu pomidorowego
+- 200g sera mozzarella
+- 100g plasterków pepperoni
+- Oregano
+- Oliwa z oliwek
 
 ### CAPRICCIOZA
 
