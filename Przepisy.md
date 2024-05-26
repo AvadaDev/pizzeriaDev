@@ -61,6 +61,17 @@
 
 ### RZEŹNIK
 
+**Składniki:**
+- 250g ciasta do pizzy
+- 200g sosu pomidorowego
+- 200g sera mozzarella
+- 50g cebuli
+- 50g kabanosa
+- 50g bekon
+- 50g salami
+- 50g szynka
+- 50g papryka
+
 ### IPERIAL
 
 ### BOLONIA
