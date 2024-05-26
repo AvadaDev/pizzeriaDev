@@ -74,6 +74,15 @@
 
 ### IPERIAL
 
+**Składniki:**
+- 250g ciasta do pizzy
+- 200g sosu pomidorowego
+- 400g sera mozzarella
+- 50g bekon
+- 50g szynka
+- 50g samlami pepperoni
+- 50g cebuli
+
 ### BOLONIA
 
 ### SPINACCI
