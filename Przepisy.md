@@ -53,6 +53,12 @@
 
 ### BUFALA
 
+**Składniki:**
+- 250g ciasta do pizzy
+- 200g sosu pomidorowego
+- 200g sera mozzarella
+- 150g sera bufala
+
 ### RZEŹNIK
 
 ### IPERIAL
